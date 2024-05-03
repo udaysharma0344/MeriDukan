@@ -32,7 +32,7 @@ const Footer = () => {
   </div>
     © 2024 Copyright : <b>MeriDukan(MD)</b> 
     <br/>
-    Developed By :  Uday
+    Developed By :  Uday Sharma
     
   </div>
   

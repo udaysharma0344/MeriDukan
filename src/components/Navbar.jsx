@@ -35,6 +35,7 @@ const Navbar = () => {
                         <NavLink to="/cart" className="btn "><i className="fa fa-cart-shopping mr-1"></i>({state.length}) </NavLink>
                     </div>
                 </div>
+                {/* jai shree ram  */}
 
 
 
