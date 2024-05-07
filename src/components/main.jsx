@@ -20,7 +20,7 @@ const Home = () => {
             <h5 className="card-title fs-1 text fw-lighter"><b>MERIDUKAN</b></h5>
             <p className="card-text fs-5 d-none d-sm-block ">
             "Bharosa Aur Samman"<br/>
-            "Shop smarter, not harder - with our seamless ecommerce app!"
+            "Shop Smarter, not Harder - with our seamless ecommerce app!"
             </p>
           </div>
         </div>
